@@ -1,4 +1,4 @@
-# freezed_practise
+# Movies_api using bloc || Clean Architecture
 
 A new Flutter project.
 
