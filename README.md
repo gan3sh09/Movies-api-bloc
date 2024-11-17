@@ -1,4 +1,4 @@
-# Movies_api using bloc || Clean Architecture
+# Movies_api using bloc || Flutter Clean Architecture
 
 A new Flutter project.
 
